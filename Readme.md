@@ -1,0 +1,2 @@
+This application shows the relationship between the numerical variables and the factor variables.
+You must select the response variable and the term variable. So, the application will calculate the linear model and present the boxplot and the dataset.
